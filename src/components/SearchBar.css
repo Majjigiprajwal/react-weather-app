@@ -1,0 +1,40 @@
+body{
+    padding: 0;
+    margin: 0;
+    background: #000000;
+}
+
+.search{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction:column;
+    color: white;
+    
+
+}
+.searchHeader{
+    font-size: 50px;
+    font-family: 700;
+    font-family: sans-serif;
+}
+
+.searchInput{
+    width: 80%;
+    height: 40px;
+    font-size: 25px;
+    background: none;
+    border: 1px solid white;
+    padding: 10px;
+    color: white;
+}
+
+.button{
+    margin-left:125px;
+    margin-top: 40px;
+    height: 50px;
+    width: 150px;
+    padding: 5px;
+    font-size: 22px;
+    
+}
